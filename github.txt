@@ -1,28 +1,45 @@
-<!DOCTYPE html>
-<html lang="es"
-<head>
-	<meta charset="utf-8" />
-	<title>Mi primera web</title>
-<head>
-<body>
-	<header>
-		<h1>Mejorand.la Web en vivo</h1>
-	</header>
-	<section>
-		<article>
-<video id="yasna" width="640" height="320" controls> <source src="video.mp4" type="video/mp4"; codecs="avc1.mp4a" />
-<source src="video.webm" type="video/webm"; codecs="vp8,vorbis"
-</video>
-		</article>
-		<aside>redes sociales</aside>
-		<article>chat</article>
-	</section>
-	<footer>
-	Prueba de footer @openzo
-	</footer>
-</body>
-</head>
-</html>
 
 
-2222
+SISTEMA DE CONTROL DE VERSIONES
+
+FTP no es un sistema de control de versiones
+Archivos
+FTP ---> Hosting  /public_html/index.php
+www.fuckencio.com
+
+========
+
+Github / SVN (Subversion) / TFS / Mercurial
+
+Git: Control de versiones
+Github: Web app consolida el control de versiones
+
+1. Red social de programadores
+2. Web / Apps
+3. Mucho más fácil
+========
+
+Repositorio de código
+
+1. Múltiples versiones del mismo código
+2. Cambios DELTA
+	Base de datos atómica del código
+3. Historial de cada archivo 
+4. Múltiples personas sobre el mismo archivo
+5. CULPA AL CULPABLE
+6. Ramas (branches)
+	* master (github.com) REPO PRINCIPAL
+	* master (disco duro) REPO LOCAL
+		* master
+			-- MERGE (experimento - master)
+		* experimento LOCAL
+
+	* master (servidor.com) REPO PRODUCCIÓN
+
+
+
+
+
+
+
+
