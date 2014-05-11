@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es"
+<head>
+	<meta charset="utf-8" />
+	<title>Mi primera web</title>
+<head>
+<body>
+	<header>
+		<h1>Mejorand.la Web en vivo</h1>
+	</header>
+	<section>
+		<article>
+<video id="yasna" width="640" height="320" controls> <source src="video.mp4" type="video/mp4"; codecs="avc1.mp4a" />
+<source src="video.webm" type="video/webm"; codecs="vp8,vorbis"
+</video>
+		</article>
+		<aside>redes sociales</aside>
+		<article>chat</article>
+	</section>
+	<footer>
+	Prueba de footer @openzo
+	</footer>
+</body>
+</head>
+</html>
